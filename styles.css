@@ -1,0 +1,19 @@
+html{
+    padding: 32px;
+    font-family: monospace;
+    background-color: #eee8d5;
+    color: #657b83;
+    text-align: center;
+}
+h1{
+    background-color: #fdf6e3;
+}
+body{
+    margin: auto;
+    width: 50%;
+    background-color: #fdf6e3;
+    height: 450px;
+}
+img{
+    position: relative;
+}
